@@ -102,5 +102,6 @@
 
 /* Any custom CSS below here */
 html::before {
-  display: none;
+  display: none !important;
+  content: none !important;
 }
