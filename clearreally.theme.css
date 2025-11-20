@@ -2,14 +2,14 @@
  * @name vulcanovision
  * @author real
  * @version 1.0.0
- * @description vulcanovision
+ * @description vulcanovision edited manually later on
  * @source https://github.com/ClearVision/ClearVision-v6
  * @website https://clearvision.github.io
  * @invite dHaSxn3
  * @BDEditor Clear Vision
 */
 
-@import url('https://clearvision.github.io/ClearVision-v6/main.css');
+@import url('https://raw.githubusercontent.com/Skidmus/vulcanovision/main/main.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
 
@@ -98,10 +98,4 @@
   --rs-offline-color: #636b75;
   --rs-streaming-color: #643da7;
   --rs-phone-visible: none;
-}
-
-/* Any custom CSS below here */
-html::before {
-  display: none !important;
-  content: none !important;
 }
